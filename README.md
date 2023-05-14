@@ -10,7 +10,6 @@
 - 👯 I’m currently working at Hailabs AI as a Machine Learning Engineer.
 - 🔭 Currently I'm building [Swatcherspace].
 - 🌱 I’m currently learning more about Computer Vision and Natural Language.
-- 💬 Ask me about .
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
 
