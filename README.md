@@ -23,5 +23,5 @@
 
 ##  Top languages used in repository card
 <p align="center">
-  [https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek12tri](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek12tri&theme=nord_bright"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek12tri&theme=nord_bright"/>
 </p>
