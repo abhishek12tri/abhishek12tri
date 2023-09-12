@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek12tri&label=Views&color=blue&style=plastic&style=for-the-badge" alt="abhishek12tri" /> </p>
 
-# 💫 About Me : 🇮🇳
+# 💫 About Me : 
 - 😄 Pronouns: He/His
+- 🗣️ Language: English
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend hours listening to songs every day.
 - 🧠 Learning style: Active
