@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - 🗣️ Language: English
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend hours listening to songs every day.
+- ⚡ Fun fact: I spend hours listening to songs.
 - 🧠 Learning style: Active
 - 👯 I’m currently working at Hailabs AI as a Machine Learning Engineer.
 - 🔭 Currently I'm building [SoundDub](https://github.com/abhishek12tri/SoundDub).
