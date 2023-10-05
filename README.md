@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I spend hours listening to songs.
 - 🧠 Learning style: Active
 - 👯 I’m currently working at Hailabs AI as a Machine Learning Engineer.
-- 🔭 Currently I'm building [SoundDub](https://github.com/abhishek12tri/SoundDub) - "Breaking the language barriers" 
+- 🔭 Currently I'm building [SoundDub](https://github.com/abhishek12tri/SoundDub) - **Breaking the language barriers** 
 - 🌱 I’m currently learning more about Computer Vision and Natural Language.
 
 ## 🌐 Socials
